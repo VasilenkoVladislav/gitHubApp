@@ -1,0 +1,13 @@
+{
+  "apiPrefix": "https://api.github.com/",
+
+  "authentication":{
+    "signIn": "user"
+  },
+
+  "search": {
+    "repositories": "search/repositories"
+  }
+
+}
+
